@@ -1,0 +1,61 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.app {
+  text-align: center;
+}
+
+.task {
+  padding: 10px;
+  font-size: 20px;
+  background-color: rgb(227, 224, 224);
+  cursor: not-allowed;
+  border-radius: 3px;
+  margin: 5px;
+}
+
+.delete {
+  padding: 10px;
+  font-size: 20px;
+  background-color: rgb(247, 0, 0);
+  cursor: pointer;
+  border-radius: 3px;
+  margin: 5px;
+}
+
+.form {
+  padding: 20px;
+  text-align: center;
+  align-items: center;
+}
+
+.input {
+  padding: 20px;
+  cursor: context-menu;
+}
+
+.addtask {
+  padding: 20px;
+  cursor: pointer;
+  margin-left: 5px;
+}
+
+.yourtask {
+  text-align: center;
+  font-size: 30px;
+  padding-top: 40px;
+}
+
+.tasks {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.title {
+  padding: 40px;
+  text-align: center;
+  font-size: 50px;
+}
